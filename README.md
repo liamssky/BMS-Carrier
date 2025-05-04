@@ -22,14 +22,16 @@ BMS Carrier has individual control over the relays which comprise the main power
 The sources of the MOSFETs for each relay are tied together to the drain of a 4th N-Channel MOSFET, controlled by the kill switch to provide overriding control over the energizing of the relays.
 
 ## Schematic 
-![PCS-SCH-1](https://github.com/liamssky/PCS/blob/main/PCS-SCH-1.png)
+![BMS-SCH-1](https://github.com/liamssky/BMS-Carrier/blob/main/BMS-SCH-1.png)
+![BMS-SCH-2](https://github.com/liamssky/BMS-Carrier/blob/main/BMS-SCH-2.png)
+![BMS-SCH-3](https://github.com/liamssky/BMS-Carrier/blob/main/BMS-SCH-3.png)
 
 ## PCB layout
-![PCS-Layout-1](https://github.com/liamssky/PCS/blob/main/PCS-Layout-1.png)
+![BMS-LAYOUT-1](https://github.com/liamssky/BMS-Carrier/blob/main/BMS-LAYOUT-1.png)
 
 ## 3D Model
-![PCS-3D-Front](https://github.com/liamssky/PCS/blob/main/PCS-3D-Front.png)
-![PCS-3D-Back](https://github.com/liamssky/PCS/blob/main/PCS-3D-Back.png)
+![BMS-3D-FRONT](https://github.com/liamssky/BMS-Carrier/blob/main/BMS-3D-FRONT.png)
+
 
 ## Revision 1.0
 ![PCS-REV1](https://github.com/liamssky/PCS/blob/main/PCS-REV1.png)
