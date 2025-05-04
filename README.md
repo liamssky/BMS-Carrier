@@ -33,12 +33,3 @@ The sources of the MOSFETs for each relay are tied together to the drain of a 4t
 ![BMS-3D-FRONT](https://github.com/liamssky/BMS-Carrier/blob/main/BMS-3D-FRONT.png)
 
 
-## Revision 1.0
-![PCS-REV1](https://github.com/liamssky/PCS/blob/main/PCS-REV1.png)
-
-This board was soldered by me and I wound the coupled-inductor / transformer which I calculated the ideal inductance, winding ratio, and size for. 
-
-## Next Steps
-
-Revision 1.2 has been created with modifications made from my findings during testing and review of datasheets and application notes. This board will be assembled soon and tested further.
-
